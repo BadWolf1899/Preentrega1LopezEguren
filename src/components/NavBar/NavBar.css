@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(2, 77, 62) !important;
+    height: 60px;
+    width: 100% !important;
+    margin-top: 0%;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  .menu-item {
+    margin-right: 10px;
+  }
+  
